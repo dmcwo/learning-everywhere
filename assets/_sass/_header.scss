@@ -2,13 +2,15 @@ header {
   display: block;
   width: 100%;
   text-align: center;
-  background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+    background: url('img/136-UCLA_Hedrick View.jpg') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
 
-  .headline { padding: 120px 0; }
+  .headline { 
+      padding: 400px 0 50px 0;
+    }
 
   h1 {
     font-size: 130px;
@@ -20,9 +22,11 @@ header {
     font-size: 77px;
     background: #fff;
     background: rgba(255,255,255,0.9);
+    line-height: 150%;
   }
 
   @media(max-width:1200px) {
+    .headline { padding: 200px 0 50px 0; }
     h1 { font-size: 140px; }
     h2 { font-size: 63px; }
   }
@@ -38,7 +42,7 @@ header {
   }
 
   @media(max-width:640px) {
-    .headline { padding: 75px 0 25px 0; }
+    .headline { padding: 175px 0 25px 0; }
     h1 { font-size: 60px; }
     h2 { font-size: 30px; }
   }
