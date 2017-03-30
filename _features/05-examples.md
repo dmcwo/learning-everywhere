@@ -8,7 +8,7 @@ image:
 
 <div style="width: 32%; float:left; padding: 40px;">
     <img src="https://www.evernote.com/l/AN-XPkDfeclC2qDZpHAFKjCyoST8ukqZn0MB/image.png" style="margin-left: auto; margin-right: auto;">
-    <h3>We usually start by helping students <a href="https://uclalibrary.github.io/research-tips/embeds/questions/" target="_blank">turn topics into research questions</a>.</h3>
+    <h3>We start by helping students <a href="https://uclalibrary.github.io/research-tips/embeds/questions/" target="_blank">turn topics into research questions</a>.</h3>
 </div>
 <div style="width: 32%; float:left; padding: 40px;">
     <img src="https://www.evernote.com/l/AN93RdB4SItKTZDQqZ8QhQ0wlAeaPx8a0h8B/image.png" style="margin-left: auto; margin-right: auto;">
