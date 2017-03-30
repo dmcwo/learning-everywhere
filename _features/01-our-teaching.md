@@ -3,7 +3,7 @@ id: f2f
 name: Our teaching
 heading: That's why we collaborate
 subheading: with intructors across the campus to teach critical information skills.
-image: 
+image: "assets/img/collaboration.jpg"
 ---
 
 In 2016, UCLA Library staff provided instruction for over 20,000 students and the demand for the library's instructional services continues to grow!
