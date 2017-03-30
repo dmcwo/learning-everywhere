@@ -19,8 +19,6 @@ image:
     <h3>We're also working on more advanced research and writing topics, like <a href="https://uclalibrary.github.io/research-tips/embeds/lit-review-2.3-continuous/lit-review-2.3-continuous.html" target="_blank">writing a literature review</a></h3>
 </div>
 
-<h3>What's next? We're helping undergraduate researchers share their stories and help future students find pathways, opportunities, and support.</h3>
-
 <!--
 <div style="width: 50%; float:left; padding: 15px;">
     <img src="https://www.evernote.com/l/AN-XPkDfeclC2qDZpHAFKjCyoST8ukqZn0MB/image.png" width="50%" style="margin-left: auto; margin-right: auto;">
