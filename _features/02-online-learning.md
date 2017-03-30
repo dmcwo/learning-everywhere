@@ -2,7 +2,7 @@
 id: online-learning
 name: Online Learning
 heading: We're building quick and practical online modules
-subheading: that learners can access from any device.
+subheading: that learners can access anywhere.
 image: "assets/img/Savvy-Searcher-updated-background.png"
 ---
 
